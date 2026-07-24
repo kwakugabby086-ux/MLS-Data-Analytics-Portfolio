@@ -36,4 +36,4 @@ Matplotlib, SQL, and Excel.
 Python | Pandas | Matplotlib | SQL | MySQL | Excel | Data Visualization
 
 ## Contact
-Email: your.email@gmail.com
+Email: kwakugabby086@gmail.com
