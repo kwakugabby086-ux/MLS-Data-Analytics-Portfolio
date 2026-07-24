@@ -1,0 +1,11 @@
+patient_name,age,gender,blood_group,hemoglobin,hb_status
+John,25,Male,A+,13.5,Normal
+Mary,30,Female,B+,9.2,MILD Anemia
+James,35,Male,O+,11.8,MILD Anemia
+Susan,28,Female,AB+,7.4,SEVERE Anemia
+Peter,22,Male,B+,14.1,Normal
+Linda,40,Female,A+,12.3,Normal
+Paul,33,Male,O+,10.5,MILD Anemia
+Grace,27,Female,B+,13.8,Normal
+David,45,Male,AB+,11.2,MILD Anemia
+Sarah,29,Female,O+,14.6,Normal

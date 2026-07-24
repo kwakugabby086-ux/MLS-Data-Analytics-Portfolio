@@ -1,0 +1,39 @@
+=======================================================
+   MLS PATIENT ANEMIA SCREENING REPORT
+=======================================================
+Total Patients Screened : 25
+Average Age             : 39.3 years
+Age Range               : 20 - 64 years
+
+--- Hemoglobin Statistics ---
+Mean Hemoglobin  : 11.57 g/dL
+Min Hemoglobin   : 7.1 g/dL
+Max Hemoglobin   : 15.8 g/dL
+Std Deviation    : 2.83 g/dL
+
+--- Anemia Classification ---
+MILD Anemia         : 11 patients (44.0%)
+Normal              : 10 patients (40.0%)
+SEVERE Anemia       : 4 patients (16.0%)
+
+--- Gender Breakdown ---
+Male      : 17 patients | Avg Hb = 12.27 g/dL
+Female    : 8 patients | Avg Hb = 10.07 g/dL
+
+--- Blood Group Distribution ---
+O-      : 7 patients (28.0%)
+O+      : 6 patients (24.0%)
+A+      : 5 patients (20.0%)
+B+      : 4 patients (16.0%)
+AB+     : 2 patients (8.0%)
+A-      : 1 patients (4.0%)
+
+--- Critical Patients (SEVERE Anemia) ---
+Michael      | Age: 34 | Gender: Male | Hb: 7.1 g/dL
+Yaw          | Age: 52 | Gender: Male | Hb: 7.2 g/dL
+Daniel       | Age: 41 | Gender: Female | Hb: 7.9 g/dL
+Joyce        | Age: 54 | Gender: Female | Hb: 7.9 g/dL
+
+=======================================================
+ACTION: SEVERE patients require IMMEDIATE attention!
+=======================================================
