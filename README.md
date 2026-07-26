@@ -54,6 +54,6 @@ Clinical Data Analysis | Database Management
 ## Contact
 Email: kwakugabby086@gmail.com
 GitHub: github.com/kwakugabby086-ux
-Location: Amakom, Kumasi, Ghana
+Location: Accra, Greater Accra , Ghana
 
 ## Available for Freelance Projects!!
