@@ -7,7 +7,7 @@ business data analytics. I transform raw data into
 actionable insights through professional dashboards, 
 automated reports, and database systems.
 
-Currently completing an HND in Medical Laboratory Science
+Currently completing in Medical Laboratory Science
 giving me a unique edge in health and clinical data analysis.
 
 ## What I Do
