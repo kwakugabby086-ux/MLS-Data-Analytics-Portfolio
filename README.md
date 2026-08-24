@@ -1,59 +1,35 @@
-# Data Analytics Portfolio
-### Gabriel Narh | Data Analyst | Medical Data Specialist
+# Data Analytics Portfolio - MLS
 
-## About Me
-Passionate data analyst with expertise in clinical and 
-business data analytics. I transform raw data into 
-actionable insights through professional dashboards, 
-automated reports, and database systems.
+This repository holds MLS (medical/lab) data analysis artifacts: CSV datasets, SQL schema, figures, and reports.
 
-Currently completing in Medical Laboratory Science
-giving me a unique edge in health and clinical data analysis.
+## Reproduce the analysis
 
-## What I Do
-- Build automated data screening and reporting systems
-- Create professional dashboards and visualizations
-- Design and manage SQL databases
-- Analyse clinical, business, and financial datasets
-- Generate written reports from raw data automatically
+To reproduce the analysis and recreate the representative figures locally, follow these steps:
 
-## Projects
+1. Clone the repo and switch to the reproducibility branch or main branch:
 
-### Project 1 — Clinical WBC Screening System
-Automated system that classifies patient WBC counts,
-produces a 3-chart dashboard and generates a written report.
-Tools: Python, Pandas, Matplotlib
+```
+git clone https://github.com/kwakugabby086-ux/MLS-Data-Analytics-Portfolio.git
+cd MLS-Data-Analytics-Portfolio
+```
 
-### Project 2 — Blood Bank Management System
-Full donor-recipient management report with blood group
-inventory, demand analysis, and compatibility reference.
-Tools: Python, Pandas, Matplotlib
+2. Create and activate a Python virtual environment, then install dependencies:
 
-### Project 3 — Multi-Parameter Lab Report System
-Analyses 5 clinical parameters simultaneously, flags
-high-risk patients and produces a 6-chart dashboard.
-Tools: Python, Pandas, Matplotlib
+```
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-### Project 4 — Patient Database System
-Real MySQL database connected to Python — loads, stores,
-and queries patient records programmatically.
-Tools: Python, MySQL, Pandas
+3. Start Jupyter and open the notebook:
 
-## Skills
-Python | Pandas | Matplotlib | SQL | MySQL | Excel
-Data Cleaning | Data Visualization | Report Generation
-Clinical Data Analysis | Database Management
+```
+jupyter notebook
+# open notebooks/reproduce_analysis.ipynb
+```
 
-## Services I Offer
-- Custom data dashboards for your business
-- Automated reporting systems
-- Database design and management
-- Data cleaning and analysis
-- Excel automation and reporting
+4. Run the notebook cells. The notebook will read `mls_project_final.csv`, perform light cleaning, and recreate example figures. It will also save recreated figures as `Figure_5_recreated.png` and `MLS_Anemia_Dashboard_recreated.png` in the repository root.
 
-## Contact
-Email: kwakugabby086@gmail.com
-GitHub: github.com/kwakugabby086-ux
-Location: Accra, Greater Accra , Ghana
-
-## Available for Freelance Projects!!
+Notes:
+- This repository contains only derived/sample datasets (CSV) and reports. If you need the raw data pipeline, consider adding the original scripts that produced `mls_project_final.csv`.
+- If you want exact visual matches to the existing PNGs, I can tune the plotting code — reply and I will update the notebook accordingly.
